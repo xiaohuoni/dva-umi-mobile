@@ -66,7 +66,7 @@ $ npm run build
 ```
 
 或者你可以使用: [oni-cli](https://github.com/xiaohuoni/oni-cli)
-v1.0.6提供
+
 ```bash
 $ npm install oni-cli -g
 $ oni new myapp
