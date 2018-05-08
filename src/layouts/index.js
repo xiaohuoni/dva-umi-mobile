@@ -10,8 +10,6 @@ const Layout = props => {
   if (openPages && openPages.includes(props.pathname)) {
     return <div> {props.children}</div>;
   }
-  console.log(props.pathname !== "/main" || props.pathname !== "/");
-  
   return (
     <div>
       <NavBar
