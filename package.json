@@ -8,20 +8,21 @@
     "test": "jest"
   },
   "dependencies": {
-    "jest": "^22.4.3",
-    "mockjs": "^1.0.1-beta3",
     "react-helmet": "^5.2.0",
     "umi": "*",
-    "umi-plugin-dva": "*"
+    "umi-plugin-react": "*"
   },
   "devDependencies": {
     "antd-pro-server": "^1.0.1",
+    "babel-eslint": "^10.0.0",
     "eslint": "^4.19.1",
     "eslint-config-umi": "^0.1.4",
     "eslint-plugin-flowtype": "^2.34.1",
     "eslint-plugin-import": "^2.6.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.1.0",
-    "husky": "^0.14.3"
+    "husky": "^0.14.3",
+    "jest": "^22.4.3",
+    "mockjs": "^1.0.1-beta3"
   }
 }

@@ -1,6 +1,6 @@
 
 import { connect } from 'dva';
-import styles from './page.less';
+import styles from './index.less';
 import {Button} from 'antd-mobile';
 import Example from './components/Example';
 import Link from 'umi/link';

@@ -22,8 +22,8 @@
 │ │   ├── /components/ #私有组件     
 │ │   ├── /models/     #私有模型(按需加载) 
 │ │   ├── /services/   #私有服务(按需加载)   
-│ │   ├── page.js       
-│ │   └── page.less   
+│ │   ├── index.js       
+│ │   └── index.less   
 │ ├── /models/       # 全局数据模型(默认加载)
 │ ├── /services/     # 数据接口
 │ ├── /themes/       # 项目样式
